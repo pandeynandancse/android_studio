@@ -1,1 +1,1 @@
-This project is also linked with django project here. <br>When file is uploaded and submitted via django web app then this app gives notification.
+This project is also linked with [django project here](https://github.com/pandeynandancse/django_projects/tree/master/mysite). <br>When file is uploaded and submitted via django web app then this app gives notification.
